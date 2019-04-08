@@ -1,6 +1,6 @@
 {
-"companyName": "DefaultCompany",
-"productName": "New Unity Project",
+"companyName": "Ariana Hipsagh",
+"productName": "Soccer Pinball",
 "dataUrl": "SoccerPinball.data.unityweb",
 "wasmCodeUrl": "SoccerPinball.wasm.code.unityweb",
 "wasmFrameworkUrl": "SoccerPinball.wasm.framework.unityweb",
